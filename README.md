@@ -1,4 +1,4 @@
 # FlappyBunny
-![alt text](https://ibb.co/th543D0)
+![Bunny](https://github.com/zoex483/FluffyBunny/blob/master/ScreenShots/2.JPG)
 
-![alt text]([figures/img.png](https://ibb.co/th543D0))
+![GameOver]([https://github.com/zoex483/FluffyBunny/blob/master/ScreenShots/1.JPG)
