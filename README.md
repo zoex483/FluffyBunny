@@ -1,5 +1,5 @@
 # ***FlappyBunny*** 
-*A runner game built with libgdx framework, meant for desktop, may possible extend to other devices/os's.*
+*A simple runner game built with libgdx framework, meant for desktop, may possible extend to other devices/os's.*
 
 
 
